@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Robo-Friends-App/static/css/main.42d5cd59.css",
+    "main.js": "/Robo-Friends-App/static/js/main.961ef193.js",
+    "static/js/453.43235460.chunk.js": "/Robo-Friends-App/static/js/453.43235460.chunk.js",
+    "static/media/NeolostPersonalUse-4nBPB.woff": "/Robo-Friends-App/static/media/NeolostPersonalUse-4nBPB.e2a4d228f49bd0cf9b7a.woff",
+    "index.html": "/Robo-Friends-App/index.html",
+    "main.42d5cd59.css.map": "/Robo-Friends-App/static/css/main.42d5cd59.css.map",
+    "main.961ef193.js.map": "/Robo-Friends-App/static/js/main.961ef193.js.map",
+    "453.43235460.chunk.js.map": "/Robo-Friends-App/static/js/453.43235460.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42d5cd59.css",
+    "static/js/main.961ef193.js"
+  ]
+}
